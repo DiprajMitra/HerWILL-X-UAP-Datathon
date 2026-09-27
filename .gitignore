@@ -44,3 +44,10 @@ Thumbs.db
 *.pth
 *.onnx
 *.h5
+
+# Datasets and competition data
+HerWILL-Safe-Social-Media-Datathon-2026/
+data/
+datasets/
+*.zip
+*.tar.gz
